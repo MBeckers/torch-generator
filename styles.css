@@ -4,3 +4,11 @@ button {
 input {
     width: 200px;
 }
+.torches {
+    display: flex;
+    flex-direction: row;
+}
+.torch {
+    padding-right: 10px;
+}
+.torch-name { width: 100px; }

@@ -10,7 +10,5 @@ input {
 }
 .torch {
     padding-right: 10px;
-    .name {
-        width: 80px;
-    }
 }
+.torch-name { width: 100px; }
